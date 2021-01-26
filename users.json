@@ -1,0 +1,67 @@
+[
+  {
+    "UserName": "channa",
+    "UserID": "US001",
+    "Category": "loyal",
+    "Gender": "male",
+    "Age": 25,
+    "MobileNo": 9731296529,
+    "Interactions": []
+  },
+  {
+    "UserName": "rashmi",
+    "UserID": "US001",
+    "Category": "loyal",
+    "Gender": "male",
+    "Age": 25,
+    "MobileNo": 123456789,
+    "Interactions": []
+  },
+  {
+    "UserName": "chiri",
+    "UserID": "US001",
+    "Category": "loyal",
+    "Gender": "male",
+    "Age": 25,
+    "MobileNo": 7337616449,
+    "Interactions": []
+  },
+  {
+    "UserName": "kepra",
+    "UserID": "US001",
+    "Category": "loyal",
+    "Gender": "male",
+    "Age": 25,
+    "MobileNo": 7760128831,
+    "Interactions": [
+      {
+        "DateOfInteraction": "abc",
+        "InteractionID": "Joi.string()",
+        "Purpose": "Joi.string()",
+        "Channel": "Joi.string()"
+      }
+    ]
+  },
+  {
+    "UserName": "dilip",
+    "UserID": "US001",
+    "Category": "loyal",
+    "Gender": "male",
+    "Age": 25,
+    "MobileNo": 82969804,
+    "Interactions": [
+      {
+        "DateOfInteraction": "abc",
+        "InteractionID": "Joi.string()",
+        "Purpose": "Joi.string()",
+        "Channel": "Joi.string()"
+      },
+      {
+        "DateOfInteraction": "abc",
+        "InteractionID": "Joi.string()",
+        "Purpose": "Joi.string()",
+        "Channel": "Joi.string()"
+      }
+    ]
+  }
+]
