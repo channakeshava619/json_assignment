@@ -4,22 +4,35 @@
     "UserID": "US001",
     "Category": "loyal",
     "Gender": "male",
-    "Age": 25,
+    "Age": 22,
     "MobileNo": 9731296529,
-    "Interactions": []
+    "Interactions": [
+      {
+        "DateOfInteraction": "abc",
+        "InteractionID": "Joi.string()",
+        "Purpose": "Joi.string()",
+        "Channel": "Joi.string()"
+      },
+      {
+        "DateOfInteraction": "abc",
+        "InteractionID": "Joi.string()",
+        "Purpose": "Joi.string()",
+        "Channel": "Joi.string()"
+      }
+    ]
   },
   {
     "UserName": "rashmi",
-    "UserID": "US001",
+    "UserID": "US002",
     "Category": "loyal",
-    "Gender": "male",
+    "Gender": "female",
     "Age": 25,
     "MobileNo": 123456789,
     "Interactions": []
   },
   {
     "UserName": "chiri",
-    "UserID": "US001",
+    "UserID": "US003",
     "Category": "loyal",
     "Gender": "male",
     "Age": 25,
@@ -28,7 +41,7 @@
   },
   {
     "UserName": "kepra",
-    "UserID": "US001",
+    "UserID": "US004",
     "Category": "loyal",
     "Gender": "male",
     "Age": 25,
@@ -44,7 +57,7 @@
   },
   {
     "UserName": "dilip",
-    "UserID": "US001",
+    "UserID": "US005",
     "Category": "loyal",
     "Gender": "male",
     "Age": 25,
@@ -56,6 +69,47 @@
         "Purpose": "Joi.string()",
         "Channel": "Joi.string()"
       },
+      {
+        "DateOfInteraction": "abc",
+        "InteractionID": "Joi.string()",
+        "Purpose": "Joi.string()",
+        "Channel": "Joi.string()"
+      }
+    ]
+  },
+  {
+    "UserName": "ajay",
+    "UserID": "US009",
+    "Category": "loyal",
+    "Gender": "male",
+    "Age": 25,
+    "MobileNo": 9731296529,
+    "Interactions": [
+      {
+        "DateOfInteraction": "abc",
+        "InteractionID": "Joi.string()",
+        "Purpose": "Joi.string()",
+        "Channel": "Joi.string()"
+      }
+    ]
+  },
+  {
+    "UserName": "dilip",
+    "UserID": "US010",
+    "Category": "loyal",
+    "Gender": "male",
+    "Age": 25,
+    "MobileNo": 8296911804,
+    "Interactions": []
+  },
+  {
+    "UserName": "shankar",
+    "UserID": "US020",
+    "Category": "loyal",
+    "Gender": "male",
+    "Age": 21,
+    "MobileNo": 24567893,
+    "Interactions": [
       {
         "DateOfInteraction": "abc",
         "InteractionID": "Joi.string()",
